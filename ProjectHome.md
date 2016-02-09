@@ -1,0 +1,1 @@
+This is a customized set of scripts and updates for RunUO that starts with RunUO 2.3 plus Nerun's Distro and will lead to a smaller Fellucca only world geared toward PvP, that will reward PvP but also not punish the innocent.
